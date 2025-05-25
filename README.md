@@ -17,7 +17,7 @@ This project is a clone of the AirBnB web application, developed as part of the 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/alu-AirBnB_clone_v2.git
+   git clone https://github.com/michael-alu/alu-AirBnB_clone_v2.git
    cd alu-AirBnB_clone_v2
    ```
 
