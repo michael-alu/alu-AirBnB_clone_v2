@@ -54,7 +54,7 @@ This project is a clone of the AirBnB web application, developed as part of the 
 
 - API endpoints are available if the web server is running.
 
-## Project Structure
+## Project Structures
 
 - `models/` - Data models and storage engines
 - `console.py` - Command-line interface
